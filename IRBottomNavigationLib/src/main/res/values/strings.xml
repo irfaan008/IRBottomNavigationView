@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IR Bottom Navigation</string>
+    <string name="space_scrolling_view_behavior">com.irfaan008.irbottomnavigation.SpaceNavigationViewBehavior</string>
+</resources>

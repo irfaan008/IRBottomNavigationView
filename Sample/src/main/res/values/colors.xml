@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="centre_color">#262626</color>
+    <color name="inactive_color">#C7C7C7</color>
+    <color name="whiteNew">#fffffe</color>
+    <color name="google_plus_color">#DC4437</color>
+    <color name="google_plus_background_color">#212121</color>
+    <color name="google_plus_inactive_color">#999999</color>
+
+</resources>

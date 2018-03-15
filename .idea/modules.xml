@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IR-Bottom-Navigation-View.iml" filepath="$PROJECT_DIR$/IR-Bottom-Navigation-View.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IRBottomNavigationLib/IRBottomNavigationLib.iml" filepath="$PROJECT_DIR$/IRBottomNavigationLib/IRBottomNavigationLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample/Sample.iml" filepath="$PROJECT_DIR$/Sample/Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Space-Navigation-View.iml" filepath="$PROJECT_DIR$/Space-Navigation-View.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IRBottomNavigationLib/spacelib.iml" filepath="$PROJECT_DIR$/IRBottomNavigationLib/spacelib.iml" />
+    </modules>
+  </component>
+</project>
